@@ -1,5 +1,5 @@
 # Google BigQuery
-As an example, we are going to use the <a href="https://console.cloud.google.com/bigquery?project=bigquery-public-data&page=project">bigquery-public-data Dataset </a>to run a query.
+As an example, the public-data Dataset <a href="https://console.cloud.google.com/bigquery?project=bigquery-public-data&page=project">bigquery- </a> is used to run a query.
 
 
 ```bash
